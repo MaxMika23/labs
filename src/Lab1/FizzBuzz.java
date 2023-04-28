@@ -1,3 +1,5 @@
+package Lab1;
+
 public class FizzBuzz {
 // Главный метод программы
 public static void main(String[] args) {

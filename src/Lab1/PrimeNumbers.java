@@ -1,6 +1,8 @@
+package Lab1;
+
 import java.util.Scanner;
 
-//объявляем класс PrimeNumbers
+//объявляем класс Lab1.PrimeNumbers
 public class PrimeNumbers {
 //объявляем метод main, который будет запускать программу
 public static void main(String[] args) {

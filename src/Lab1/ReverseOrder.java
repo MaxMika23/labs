@@ -1,5 +1,7 @@
+package Lab1;
+
 import java.util.Scanner;
-// Объявляем класс ReverseOrder
+// Объявляем класс Lab1.ReverseOrder
 public class ReverseOrder {
 // Объявляем метод main
 public static void main(String[] args) {
