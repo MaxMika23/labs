@@ -19,9 +19,9 @@ public class HtmlAttributesExtractor {
      */
     public static void main(String[] args) {
         // Имя файла для чтения
-        String inputFileName = "C:\\Users\\Maximka\\IdeaProjects\\lab1\\src\\Lab4\\input.html";
+        String inputFileName = "input.html";
         // Имя файла для записи
-        String outputFileName = "C:\\Users\\Maximka\\IdeaProjects\\lab1\\src\\Lab4\\output.txt";
+        String outputFileName = "output.txt";
         // Карта для подсчета количества каждого атрибута
         Map<String, Integer> attributeCountMap = new HashMap<>();
         // Шаблон для поиска атрибутов
